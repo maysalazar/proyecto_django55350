@@ -43,7 +43,7 @@ def crear_curso(request):
    else:  # GET
        http_response = render(
            request=request,
-           template_name='control_estudio/formulario_curso_a_mano.html',
+           template_name='control_estudios/formulario_curso_a_mano.html',
        )
        return http_response
 
