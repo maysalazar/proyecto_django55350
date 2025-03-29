@@ -12,7 +12,7 @@ Para instalar las dependencias corre este comando:
 pip install -r requirements.txt
 
 
-## Instrucciones para entrar al panel aministrativo de Django
+
 + En consola, crear un superuser:
 '''
 python manage.py createsuperuser
